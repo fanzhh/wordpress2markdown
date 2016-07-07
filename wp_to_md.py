@@ -12,9 +12,9 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 
 db = MySQLdb.connect(host="localhost", # your host, usually localhost
-                    user="root",       # your username
-                    passwd="56805696", # your passwd
-                    db="tmpdb",        # name of the data base
+                    user="username",       # your username
+                    passwd="passwd", # your passwd
+                    db="dbname",        # name of the data base
                     charset="utf8",    # set charset
                     use_unicode=True)
 
