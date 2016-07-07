@@ -1,5 +1,5 @@
 # wordpress2markdown
-export wordpress's posts to markdown files contain images.
+Export wordpress's posts to markdown files contain images.
 
 A few years ago, I once built my blog use wordpress. Later I learned markdown and enjoy it, now I built blog use [grav](https://getgrav.org/), a cms system based markdown file. I want to export my old blogs in wordpress into  grav system, so I write this code.
 
